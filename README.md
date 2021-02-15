@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meghdut Nandy</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghdut1996" alt="meghdut1996" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python, Web Scraping(Scrapy,BeautifulSoup), Tableau(Desktop, Tableau Prep Builder), Sql(MS SQL), Advanced Excel, Machine Leanring, OpenCv**
