@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghdut Nandy</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Full Stack Data Science**
 
 - 💬 Ask me about **Python, Web Scraping(Scrapy,BeautifulSoup), Tableau(Desktop, Tableau Prep Builder), Sql(MS SQL), Advanced Excel, Machine Leanring, OpenCv**
 
