@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Data Science**
 
-- 💬 Ask me about **Python, Web Scraping(Scrapy,BeautifulSoup), Tableau(Desktop, Tableau Prep Builder), Sql(MS SQL), Advanced Excel, Machine Leanring, OpenCv**
+- 💬 Ask me about **Python, Web Scraping(Scrapy,BeautifulSoup), Tableau(Desktop, Tableau Prep Builder), Sql(MS SQL), Advanced Excel, Machine Learning, OpenCV**
 
 - 📫 How to reach me **meghdutnandy@gmail.com**
 
