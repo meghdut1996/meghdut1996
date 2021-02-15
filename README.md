@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/meghdut-nandy-b1b784115/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/meghdut-nandy-b1b784115/" height="30" width="40" /></a>
-<a href="https://fb.com/meghdut nandy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meghdut nandy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meghdut nandy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meghdut nandy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meghdutnandy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="meghdutnandy" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/meghdut.nandy.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/meghdut.nandy.9/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucg4pfpilzbsitj0csywjz-w/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucg4pfpilzbsitj0csywjz-w/videos" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghdut1996&show_icons=true&locale=en&layout=compact" alt="meghdut1996" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghdut1996&show_icons=true&locale=en" alt="meghdut1996" /></p>
-
