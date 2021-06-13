@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello world, I'm Meghdut!</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Data Science**
 
