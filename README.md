@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hello world! I'm Meghdut</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">👋 Hello world! I'm Meghdut Nandy</h1>
+<h3 align="center">A passionate Oracle Fusion HCM techno-functional Consultant from India</h3>
 
+- 🌱 Having 2+ years of oracleFusion Application Suite experience in supporting application development, configuring enhancement, setups, process design of HCM - Core HR, Payroll, Absence Management, Talent Management.
+- 🌱 Successfully Implemented GLobal HR and Payroll, Absence, management module.
+- 🌱 Having good knowledge on 2-Tier and 3-Tier employment models.
 - 🌱 I’m currently learning **Full Stack Data Science**
 
-- 💬 Ask me about **Python(Pandas, numpy, matplotlib, scipy, seaborn), Web Scraping(Scrapy,BeautifulSoup),Power BI, Tableau(Desktop, Tableau Prep Builder), Oracle, MS SQL, Advanced Excel, Machine Learning, OpenCV**
+- 💬 Ask me about **Python(Pandas, numpy, matplotlib, scipy, seaborn), Web Scraping(Scrapy,BeautifulSoup),Power BI, Tableau(Desktop, Tableau Prep Builder), Oracle DB, PL/SQL, Advanced Excel, Machine Learning, OpenCV**
 
 - 📫 How to reach me **meghdutnandy@gmail.com**
 
