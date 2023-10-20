@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello world! I'm Meghdut Nandy</h1>
+<h1 align="center">👋 Hello world! 👋 I'm Meghdut Nandy</h1>
 <h3 align="center">A passionate Oracle Fusion HCM techno-functional Consultant from India</h3>
 
 - 🌱 Around 3+ Years of work experience in IT, and 2+ years. relevant experience in Oracle Fusion HCM as a Techno Functional Consultant.
