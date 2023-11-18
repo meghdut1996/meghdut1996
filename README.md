@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello world! 👋 I'm Meghdut Nandy</h1>
+<h1 align="center">Hi 👋, I'm Meghdut</h1>
 <h3 align="center">A passionate Oracle Fusion HCM techno-functional Consultant from India</h3>
 
-- 🌱 Around 3+ Years of work experience in IT, and 2+ years. relevant experience in Oracle Fusion HCM as a Techno Functional Consultant.
-- 🌱 Experience in Support as well as implementation project of Oracle Fusion HCM application, modules like Core HR, ORC, and Talent management (Goal and Performance management).
-- 🌱 Having good knowledge of customizing standard reports as well as developing custom BIP & OTBI reports, HCM Extracts, SQL, HDL & HSDL, and Flex fields like (DFF), (KFF), and EFF.
+- 🌱 Around 3+ Years of work experience in IT, and 2+ years relevant experience in Oracle Fusion HCM as a Techno Functional Consultant.
+- 🌱 Experience in Support as well as implementation projects of Oracle Fusion HCM application, modules like Core HR, ORC, and Talent management (Goal and Performance management).
+- 🌱 Having good knowledge of customizing standard reports as well as developing custom BIP & OTBI reports, HCM Extracts, Fast Formulas, SQL, HDL & HSDL, and Flex fields like (DFF), (KFF), and EFF.
 
-- 💬 Ask me about **BI and OTBI Reports, SQL, Fast Formulas, HSDL, HDL, Core HR, ORC and Goal and Performance Mandule.**
+- 💬 Ask me about **anything related to BI and OTBI Reports, SQL, Fast Formulas, HSDL, HDL, Core HR, ORC, and Goal and Performance Module.**
 
 - 📫 How to reach me **meghdutnandy@gmail.com**
 
