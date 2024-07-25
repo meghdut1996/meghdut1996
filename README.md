@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghdut</h1>
 <h3 align="center">A passionate Oracle Fusion HCM techno-functional Consultant from India</h3>
 
-- 🌱 Around 3+ Years of work experience in IT, and 2+ years relevant experience in Oracle Fusion HCM as a Techno Functional Consultant.
+- 🌱 Around 4+ Years of work experience in IT, and 3+ years relevant experience in Oracle Fusion HCM as a Techno Functional Consultant.
 - 🌱 Experience in Support as well as implementation projects of Oracle Fusion HCM application, modules like Core HR, ORC, and Talent management (Goal and Performance management).
 - 🌱 Having good knowledge of customizing standard reports as well as developing custom BIP & OTBI reports, HCM Extracts, Fast Formulas, SQL, HDL & HSDL, and Flex fields like (DFF), (KFF), and EFF.
 
